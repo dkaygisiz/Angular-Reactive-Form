@@ -1,0 +1,15 @@
+/*
+.loginForm {
+  display: flex;
+  flex-direction: column;
+}
+*/
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+a {
+  margin-left: 10px;
+}
